@@ -2,7 +2,7 @@
 
 # Try Django 1.10
 
-Try Django 1.10 is an introduction to Django version 1.10 by creating a URL shortening service. This series covers a variety of Django basics as well as Django 1.10 specific material. Created by Team CFE @ http://joincfe.com.
+Try Django 1.10 is an introduction to Django version 1.10 by creating a URL shortening service. It is the only practical based course which can help you to level up your skils. This series covers a variety of Django basics as well as Django 1.10 specific material. Created by Team CFE @ http://joincfe.com.
 
 The tutorial videos are available on our [YouTube channel](http://joincfe.com/youtube) and ad-free on [Coding for Entrepreneurs](http://joincfe.com/projects/).
 
